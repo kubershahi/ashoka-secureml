@@ -125,7 +125,7 @@ dmypy.json
 .pyre/
 
 #folder
-DVCData
+dogvscat_traindata
 
 # pickle
 *.pickle
