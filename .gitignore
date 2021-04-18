@@ -129,3 +129,6 @@ dogvscat_traindata
 
 # pickle
 *.pickle
+
+#DS_Store
+.DS_Store
