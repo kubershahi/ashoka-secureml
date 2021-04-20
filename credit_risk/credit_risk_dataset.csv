@@ -1,5 +1,6 @@
+credit_risk_dataset
 person_age,person_income,person_home_ownership,person_emp_length,loan_intent,loan_grade,loan_amnt,loan_int_rate,loan_status,loan_percent_income,cb_person_default_on_file,cb_person_cred_hist_length
-22,59000,RENT,123.0,PERSONAL,D,35000,16.02,1,0.59,Y,3
+22,59000,RENT,12.0,PERSONAL,D,35000,16.02,1,0.59,Y,3
 21,9600,OWN,5.0,EDUCATION,B,1000,11.14,0,0.1,N,2
 25,9600,MORTGAGE,1.0,MEDICAL,C,5500,12.87,1,0.57,N,3
 23,65500,RENT,4.0,MEDICAL,C,35000,15.23,1,0.53,N,2
