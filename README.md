@@ -19,3 +19,4 @@ Subpopulation Data Poisoning Attack (Paper):
 Subpopulation Data Poisinong Attack (real-world datasets):
 - Dataset: Credit Risk (https://www.kaggle.com/laotse/credit-risk-dataset) & Heart Stroke Datasets 
 - Notebooks: subpopulation_attack_credit_risk.ipynb
+- Notebooks: Subpopulation_Stroke.ipynb
