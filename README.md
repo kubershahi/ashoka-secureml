@@ -18,7 +18,10 @@ We studied different machine learning problems and ways to solve them in the fir
 - Paper: https://arxiv.org/abs/2006.14026
 - Dataset: Adult Dataset, https://archive.ics.uci.edu/ml/datasets/adult
 - Notebooks: subpopulation_attack_paperimplementation.ipynb
+- View _Subpopulation Attack Paper Summary.pdf_ for the summary of the paper.
 
 **Subpopulation Data Poisinong Attack (real-world datasets):**
 - Dataset: Credit Risk (https://www.kaggle.com/laotse/credit-risk-dataset) & Stroke Prediction (https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/code)
 - Notebooks: subpopulation_attack_credit_risk.ipynb & Subpopulation_Stroke.ipynb 
+
+View **_Final Presentation.pdf_** for the ISM final report.
