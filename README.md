@@ -2,7 +2,7 @@
 
 We studied different machine learning problems and ways to solve them in the first half of the ISM, and explored different data poisoning attacks that can be done on the ML algorithms. 
 
-See [*Final Presentation.pdf*](https://github.com/kubershahi/ashoka-secureml/blob/master/Final%20Presentation.pdf) for the ISM final report.
+ISM Final Report: [*Final Presentation.pdf*](https://github.com/kubershahi/ashoka-secureml/blob/master/Final%20Presentation.pdf) 
 
 ## Implementation Details
 
