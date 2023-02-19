@@ -2,6 +2,8 @@
 
 We studied different machine learning problems and ways to solve them in the first half of the ISM, and explored different data poisoning attacks that can be done on the ML algorithms. 
 
+See [*Final Presentation.pdf*}(https://github.com/kubershahi/ashoka-secureml/blob/master/Final%20Presentation.pdf) for the ISM final report.
+
 ## Implementation Details
 
 **Trash Bucket Problem:**
@@ -23,5 +25,3 @@ We studied different machine learning problems and ways to solve them in the fir
 **Subpopulation Data Poisinong Attack (real-world datasets):**
 - Dataset: Credit Risk (https://www.kaggle.com/laotse/credit-risk-dataset) & Stroke Prediction (https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/code)
 - Notebooks: *subpopulation_attack_credit_risk.ipynb* & *Subpopulation_Stroke.ipynb* 
-
-View *Final Presentation.pdf* for the ISM final report.
